@@ -1,2 +1,2 @@
-# CUDA_for_Beginner
+# Prallelization_for_Beginner
 Lesson note
