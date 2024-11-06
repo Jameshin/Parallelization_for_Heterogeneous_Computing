@@ -1,2 +1,2 @@
-# Prallelization_for_Heterogeneous_Computing
+# Parallelization_for_Heterogeneous_Computing
 Lesson note
